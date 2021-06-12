@@ -12,11 +12,11 @@ Puede hacerlo de 2 maneras:
 
 La manera mas facil y la recomendada es mediante la pagina [**Firefox Add Ons**](https://addons.mozilla.org/en-US/firefox/addon/lucario-n/)
 
-Si quiere, puede descargarlo desde [**aqui**](https://gitlab.com/448L/Lucario-N/-/tags)
+Si quiere, puede descargarlo desde [**aqui**](https://github.com/448L/Lucario-N/releases)
 
 ## Unas cositas mas que decir
 
-No intente comprimir y empaquetar a XPI, simplemente fallara. una vez que se modifique el archivo como tal, la firma de Mozilla se invalidara, por eso le recomiendo que descarge el tema desde la pagina oficial [**Firefox Add Ons**](https://addons.mozilla.org/en-US/firefox/addon/lucario-n/) o la descarge desde una version [**etiquetada**](https://gitlab.com/448L/Lucario-N/-/tags). Tambien por esa razon, las versiones nuevas llegaran primero a la pagina oficial.
+No intente comprimir y empaquetar a XPI, simplemente fallara. una vez que se modifique el archivo como tal, la firma de Mozilla se invalidara, por eso le recomiendo que descarge el tema desde la pagina oficial [**Firefox Add Ons**](https://addons.mozilla.org/en-US/firefox/addon/lucario-n/) o la descarge desde una version [**etiquetada**](https://github.com/448L/Lucario-N/releases). Tambien por esa razon, las versiones nuevas llegaran primero a la pagina oficial.
 
 ## Autor de la ilustracion
 

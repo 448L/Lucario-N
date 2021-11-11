@@ -2,8 +2,6 @@
 
 Mi tema feito solo para Firefox
 
-Disfruta de este Lucario
-
 <img src = "https://raw.githubusercontent.com/448L/Lucario-N/master/captura.png" width = "100%">
 
 ## ¿Como consigo este tema?
